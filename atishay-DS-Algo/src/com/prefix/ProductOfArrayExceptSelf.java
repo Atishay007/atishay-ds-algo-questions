@@ -1,4 +1,4 @@
-package com.arrays.prefix;
+package com.prefix;
 
 import java.util.Arrays;
 
